@@ -98,9 +98,7 @@ if __name__=="__main__":
     demo.launch()
 
 
-# Working of Sampredictor
-# we have to pass the x,y cordinate values for an image and one label, we can increase the no of points keeping the
-# label same
+
 
     
 
